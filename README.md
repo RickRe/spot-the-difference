@@ -88,9 +88,11 @@ This is a Python script that allows for the automatic analysis of two
 images to compare the differences between them, a script that can
 have multiple usages.
 
+The two images have to be almost identical.
+Sensitive to rotation, scaling, lumination, or any affine transform.
+
 Simply place the images in the same directory as the script and their
-analysis will be handled automatically by the Python
-script.
+analysis will be handled automatically by the Python script.
 
 Applications in web application design, image
 analysis and even biology are possible.
