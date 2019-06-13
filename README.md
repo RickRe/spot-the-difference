@@ -72,7 +72,17 @@
 
 <!-- /BADGES -->
 
-![alt tag](assets/image_presentation500x500.png "Slider Preview")
+<span class="image">
+  <a href="https://github.com/RickRe/spot-the-difference/blob/master/src/Spot_the_difference1.png" title="img1">
+    <img src="https://github.com/RickRe/spot-the-difference/blob/master/src/Spot_the_difference1.png" alt="img1" width="25%" height="25%" />
+  </a>
+  <a href="https://github.com/RickRe/spot-the-difference/blob/master/src/Spot_the_difference2.png" title="img2">
+    <img src="https://github.com/RickRe/spot-the-difference/blob/master/src/Spot_the_difference2.png" alt="img2" width="25%" height="25%" />
+  </a>
+  <a href="https://github.com/RickRe/spot-the-difference/blob/master/src/result.png" title="img2">
+    <img src="https://github.com/RickRe/spot-the-difference/blob/master/src/result.png" alt="img2" width="25%" height="25%" />
+  </a>
+</span>
 
 This is a Python script that allows for the automatic analysis of two
 images to compare the differences between them, a script that can
